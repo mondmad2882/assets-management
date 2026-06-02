@@ -7,5 +7,10 @@
     },
     "editor.suggestOnTriggerCharacters": false,
     "editor.inlineSuggest.enabled": false,
-    "editor.suggest.showWords": false
+    "editor.suggest.showWords": false,
+    "chat.tools.terminal.autoApprove": {
+        "git remote": true,
+        "git rev-parse": true,
+        "git push": true
+    }
 }
